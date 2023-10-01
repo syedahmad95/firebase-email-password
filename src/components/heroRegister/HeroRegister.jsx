@@ -1,6 +1,7 @@
 
 
 const HeroRegister = () => {
+    
     const handleRegister = e =>{
         e.preventDefault()
         console.log('tore ami paichi');

@@ -8,6 +8,7 @@ const HeroRegister = () => {
         e.preventDefault()
         console.log('tore ami paichi');
         const email = e.target.email.value
+        
         const password = e.target.password.value;
         console.log(email,password);
 
